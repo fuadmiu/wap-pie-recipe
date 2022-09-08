@@ -1,0 +1,19 @@
+.header h1, .ingredients h1, .directions h1, .user-comments h1, .links h1 {
+    background-color: #F0F0F0;
+    color: #A4A400; 
+}
+.header h1 {
+    text-align: center;
+}
+.user-comments blockquote {
+    background-color: #FFFFA8;
+    width: 60%;
+    margin: 0 auto;
+    margin-bottom: 10px;
+}
+.footer {
+    float: right;
+}
+.footer .validators {
+    text-align: right;
+}
